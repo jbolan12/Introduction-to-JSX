@@ -18,7 +18,7 @@ This project demonstrates the basics of JSX (JavaScript XML) and React. It uses 
 
 1. **Clone the repository** (or download the project):
    ```bash
-   git clone https://github.com/your-username/introduction-to-jsx.git
+   git clone https://jbolan12.github.io/Introduction-to-JSX/
    cd introduction-to-jsx
 
 ## Install dependencies:
